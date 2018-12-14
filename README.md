@@ -3,7 +3,7 @@ For final project, please see: [Vehicle Classification and Localization](https:/
 We used various cloud services along with computer vision techniques to train classifiers on over 600 000 images. For direct implementation details please see link above. 
 
 
-The following is an assortment of assignments built in a computer vision I took at McGill University. Each assignment covers various fundamental computer vision topics. The full run down of each is seen below:
+This repo contains is an assortment of assignments built in a computer vision course I took at McGill University. Each assignment covers various fundamental computer vision topics. The full run down of each is seen below:
 
 #### Assignment 1: Denoising, Sharpening, Template Matching
 This assignment was focussed on several of the following fundamental computer vision techniques:
