@@ -1,4 +1,8 @@
 # Computer Vision
+For final project, please see: [Vehicle Classification and Localization](https://github.com/tiff-wang/415-final-project).
+We used various cloud services along with computer vision techniques to train classifiers on over 600 000 images. For direct implementation details please see link above. 
+
+
 The following is an assortment of assignments built in a computer vision I took at McGill University. Each assignment covers various fundamental computer vision topics. The full run down of each is seen below:
 
 #### Assignment 1: Denoising, Sharpening, Template Matching
