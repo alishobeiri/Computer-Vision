@@ -1,5 +1,5 @@
 # Computer Vision
-For final project, please see: [Vehicle Classification and Localization](https://github.com/tiff-wang/415-final-project).
+For repo for final project, please see: [Vehicle Classification and Localization](https://github.com/tiff-wang/415-final-project).
 We used various cloud services along with computer vision techniques to train classifiers on over 600 000 images. For direct implementation details please see link above. 
 
 
